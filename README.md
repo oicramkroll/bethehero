@@ -1,2 +1,4 @@
 # bethehero
-projeto para doações de caridade
+projeto de teste de conexão com bancos SQL
+
+
